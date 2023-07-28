@@ -1,0 +1,17 @@
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/Day_19.deps.json
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/Day_19.runtimeconfig.json
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/Day_19.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/bin/Debug/net6.0/Day_19.pdb
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.csproj.AssemblyReference.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.AssemblyInfoInputs.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.AssemblyInfo.cs
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.csproj.CoreCompileInputs.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/refint/Day_19.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.pdb
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/Day_19.genruntimeconfig.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_19/obj/Debug/net6.0/ref/Day_19.dll

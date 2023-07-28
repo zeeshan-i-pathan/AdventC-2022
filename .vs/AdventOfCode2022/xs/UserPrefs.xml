@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{D2ADB6AC-C4A6-40E8-8752-CBABDA3F5A88}|Default">
+  <MonoDevelop.Ide.ItemProperties.Wardrobe FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdventOfCode2022" expanded="True" selected="True">
+            <Node name="Day_1.Test" expanded="True" />
+            <Node name="Day_3" expanded="True" />
+            <Node name="Day_5" expanded="True" />
+            <Node name="Day_5.Test" expanded="True" />
+            <Node name="GossipGame" expanded="True" />
+            <Node name="Runner" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AdventOfCode2022" expanded="True">
+            <Node name="Day_1.Test" expanded="True">
+              <Node name="Day_1.Test" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="GossipGame" expanded="True">
+              <Node name="GossipGame" expanded="True" selected="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Runner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day__1.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day__19__t FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

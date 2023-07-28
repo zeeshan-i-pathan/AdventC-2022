@@ -1,0 +1,18 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/Users/FWD/Projects/AdventOfCode2022/Wardrobe/UnitTest1.cs(49,55): warning CS8600: Converting null literal or possible null value to non-nullable type. [/Users/FWD/Projects/AdventOfCode2022/Wardrobe/Wardrobe.csproj]
+  Wardrobe -> /Users/FWD/Projects/AdventOfCode2022/Wardrobe/bin/Debug/net7.0/Wardrobe.dll
+Test run for /Users/FWD/Projects/AdventOfCode2022/Wardrobe/bin/Debug/net7.0/Wardrobe.dll (.NETCoreApp,Version=v7.0)
+Microsoft (R) Test Execution Command Line Tool Version 17.6.0 (x64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Ideal state found State { countA = 5, countB = 0, countC = 0, countD = 0, sizeOccupied = 250 }
+Ideal state found State { countA = 3, countB = 0, countC = 1, countD = 0, sizeOccupied = 250 }
+Ideal state found State { countA = 2, countB = 2, countC = 0, countD = 0, sizeOccupied = 250 }
+Ideal state found State { countA = 1, countB = 0, countC = 2, countD = 0, sizeOccupied = 250 }
+Ideal state found State { countA = 0, countB = 2, countC = 1, countD = 0, sizeOccupied = 250 }
+Branches Explored 30
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: < 1 ms - Wardrobe.dll (net7.0)

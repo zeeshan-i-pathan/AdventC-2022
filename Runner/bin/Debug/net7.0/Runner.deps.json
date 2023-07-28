@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Runner/1.0.0": {
+        "dependencies": {
+          "Day_1": "1.0.0",
+          "PluralizeService.Core": "1.2.21147.2"
+        },
+        "runtime": {
+          "Runner.dll": {}
+        }
+      },
+      "PluralizeService.Core/1.2.21147.2": {
+        "runtime": {
+          "lib/netstandard2.1/PluralizeService.Core.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Day_1/1.0.0": {
+        "runtime": {
+          "Day_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluralizeService.Core/1.2.21147.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WcPxEg6bjNYSQDWSYlAC6sPRk7vyy4KZX/e8R7PeainOvsNvfL2ABis2HxBwEgPPoJ4P+hSp7/mb5xX3oP8h4w==",
+      "path": "pluralizeservice.core/1.2.21147.2",
+      "hashPath": "pluralizeservice.core.1.2.21147.2.nupkg.sha512"
+    },
+    "Day_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

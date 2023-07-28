@@ -1,0 +1,12 @@
+/Users/FWD/Projects/AdventOfCode2022/Day_2/bin/Debug/net7.0/Day_2.deps.json
+/Users/FWD/Projects/AdventOfCode2022/Day_2/bin/Debug/net7.0/Day_2.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_2/bin/Debug/net7.0/Day_2.pdb
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.csproj.AssemblyReference.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.AssemblyInfoInputs.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.AssemblyInfo.cs
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.csproj.CoreCompileInputs.cache
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/refint/Day_2.dll
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/Day_2.pdb
+/Users/FWD/Projects/AdventOfCode2022/Day_2/obj/Debug/net7.0/ref/Day_2.dll

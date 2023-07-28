@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PluralizeService.Core/1.2.21147.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/PluralizeService.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/PluralizeService.Core.dll": {}
+        }
+      },
+      "Day_1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Day_1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluralizeService.Core/1.2.21147.2": {
+      "sha512": "WcPxEg6bjNYSQDWSYlAC6sPRk7vyy4KZX/e8R7PeainOvsNvfL2ABis2HxBwEgPPoJ4P+hSp7/mb5xX3oP8h4w==",
+      "type": "package",
+      "path": "pluralizeservice.core/1.2.21147.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Logo_IT_Masters.png",
+        "lib/netstandard2.1/PluralizeService.Core.dll",
+        "pluralizeservice.core.1.2.21147.2.nupkg.sha512",
+        "pluralizeservice.core.nuspec"
+      ]
+    },
+    "Day_1/1.0.0": {
+      "type": "project",
+      "path": "../Day_1/Day_1.csproj",
+      "msbuildProject": "../Day_1/Day_1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Day_1 >= 1.0.0",
+      "PluralizeService.Core >= 1.2.21147.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/FWD/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/FWD/Projects/AdventOfCode2022/Runner/Runner.csproj",
+      "projectName": "Runner",
+      "projectPath": "/Users/FWD/Projects/AdventOfCode2022/Runner/Runner.csproj",
+      "packagesPath": "/Users/FWD/.nuget/packages/",
+      "outputPath": "/Users/FWD/Projects/AdventOfCode2022/Runner/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/FWD/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/FWD/Projects/AdventOfCode2022/Day_1/Day_1.csproj": {
+              "projectPath": "/Users/FWD/Projects/AdventOfCode2022/Day_1/Day_1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "PluralizeService.Core": {
+            "target": "Package",
+            "version": "[1.2.21147.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
